@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+
+const List<Map<String, dynamic>> categoryIcons = [
+  {"name": "Beauty", "icon": Icons.spa},
+  {"name": "Fragrances", "icon": Icons.local_florist},
+  {"name": "Furniture", "icon": Icons.weekend},
+  {"name": "Groceries", "icon": Icons.shopping_basket},
+  {"name": "Home Decoration", "icon": Icons.home},
+  {"name": "Kitchen Accessories", "icon": Icons.kitchen},
+  {"name": "Laptops", "icon": Icons.laptop},
+  {"name": "Mens Shirts", "icon": Icons.checkroom},
+  {"name": "Mens Shoes", "icon": Icons.directions_run},
+  {"name": "Mens Watches", "icon": Icons.watch},
+  {"name": "Mobile Accessories", "icon": Icons.phonelink},
+  {"name": "Motorcycle", "icon": Icons.motorcycle},
+  {"name": "Skin Care", "icon": Icons.face},
+  {"name": "Smartphones", "icon": Icons.smartphone},
+  {"name": "Sports Accessories", "icon": Icons.sports},
+  {"name": "Sunglasses", "icon": Icons.visibility},
+  {"name": "Tablets", "icon": Icons.tablet},
+  {"name": "Tops", "icon":Icons.checkroom},
+  {"name": "Vehicle", "icon": Icons.directions_car},
+  {"name": "Womens Bags", "icon": Icons.work},
+  {"name": "Womens Dresses", "icon": Icons.woman},
+  {"name": "Womens Jewellery", "icon": Icons.diamond},
+  {"name": "Womens Shoes", "icon": Icons.directions_run},
+  {"name": "Womens Watches", "icon": Icons.watch},
+];
